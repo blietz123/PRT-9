@@ -1,4 +1,4 @@
-public class Linearsearch20 {
+public class LinearSearch20 {
     public static void main(String[] args) {
         int[] arrayInt = {34, 18, 26, 48, 72, 20, 56, 63};
         int key = 20;
